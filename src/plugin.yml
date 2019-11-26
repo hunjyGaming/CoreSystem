@@ -1,0 +1,14 @@
+name: Core
+version: 1.00.00
+author: hunjy
+
+main: de.hunjy.Core
+
+commands:
+  coins:
+  fly:
+  gamemode:
+    aliases: gm
+  vanish:
+    aliases: v
+  settime:

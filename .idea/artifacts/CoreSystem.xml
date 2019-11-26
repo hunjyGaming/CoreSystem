@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CoreSystem">
+    <output-path>$PROJECT_DIR$/out/artifacts/CoreSystem</output-path>
+    <root id="archive" name="CoreSystem.jar">
+      <element id="module-output" name="CoreSystem" />
+    </root>
+  </artifact>
+</component>
